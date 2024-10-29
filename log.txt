@@ -1,0 +1,4 @@
+15:24:51 - Login: r, Senha: r, Resultado: Sucesso
+15:25:45 - Login: r, Senha: r, Resultado: Sucesso
+15:28:15 - Login: Renato, Senha: 12345, Resultado: Sucesso
+09:14:17 - Login: Renato, Senha: 12345, Resultado: Sucesso
